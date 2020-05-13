@@ -1,11 +1,10 @@
 package qatest;
 
-public class yu {
+public class tes {
 
 	public static void main(String[] args) {
-		for(int i=0;i<=10;i++)
 		// TODO Auto-generated method stub
-System.out.println("Test");
+		System.out.println("beforesuite");	
 	}
 
 }
